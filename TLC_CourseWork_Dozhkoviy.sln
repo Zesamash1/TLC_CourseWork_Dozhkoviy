@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLC_CourseWork_Dozhkoviy", "TLC_CourseWork_Dozhkoviy\TLC_CourseWork_Dozhkoviy.csproj", "{DE77E270-8051-4660-A75A-1037402A3EE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE77E270-8051-4660-A75A-1037402A3EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE77E270-8051-4660-A75A-1037402A3EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE77E270-8051-4660-A75A-1037402A3EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE77E270-8051-4660-A75A-1037402A3EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38832181-51E4-4D6E-80C7-34393A585DB8}
+	EndGlobalSection
+EndGlobal
